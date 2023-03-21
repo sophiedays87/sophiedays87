@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sofia Dias</h1>
-<h3 align="center">A passionate frontend developer from Portugal!</h3>
+<h1 align="center">Hi ✌️ I'm Sofia Dias</h1>
+<h3 align="center">A passionate Full Stack developer from Portugal!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sophiedays87&label=Profile%20views&color=0e75b6&style=flat" alt="sophiedays87" /> </p>
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m searching for work on **Full Stack Development, Front-end or UI design projects**
+- 🚀 I’m searching for work on **Full Stack Development, Front-end or UI design projects**
 
 - 📫 How to reach me **sofiadias70@gmail.com**
 
